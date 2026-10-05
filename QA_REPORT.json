@@ -1,0 +1,293 @@
+{
+  "results": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "font": true,
+      "images": [
+        {
+          "src": "assets/images/training-10.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-09.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-03.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-02.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-05.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-07.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-06.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-11.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-08.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-01.webp",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "name": "laptop",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "font": true,
+      "images": [
+        {
+          "src": "assets/images/training-10.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-09.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-03.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-02.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-05.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-07.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-06.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-11.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-08.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-01.webp",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "scrollWidth": 768,
+      "font": true,
+      "images": [
+        {
+          "src": "assets/images/training-10.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-09.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-03.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-02.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-05.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-07.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-06.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-11.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-08.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-01.webp",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "scrollWidth": 390,
+      "font": true,
+      "images": [
+        {
+          "src": "assets/images/training-10.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-09.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-03.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-02.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-05.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-07.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-06.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-11.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-08.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-01.webp",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "name": "small-mobile",
+      "width": 320,
+      "scrollWidth": 320,
+      "font": true,
+      "images": [
+        {
+          "src": "assets/images/training-10.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-09.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-03.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-02.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-05.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-07.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-06.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-11.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-04.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-08.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/training-01.webp",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "failures": [],
+  "interactionChecks": 13,
+  "reducedMotion": "none",
+  "build": "Stronger Howrah v15",
+  "date": "2026-10-05",
+  "browser": "Chromium",
+  "image_count": 11,
+  "unique_image_files": 11,
+  "source_asset_paths": "all resolve",
+  "checks": [
+    "Five viewport widths without horizontal overflow",
+    "Eleven photographs loaded in each viewport",
+    "Locally hosted display font loaded",
+    "Four-week tabs and keyboard navigation",
+    "Session stage switching",
+    "Programme dialog and Escape",
+    "Gallery next-photo navigation",
+    "Enquiry validation, preview and text download",
+    "Mobile menu opening and Escape",
+    "Reduced-motion animation suppression",
+    "Visible main content without JavaScript",
+    "Mocked endpoint success state",
+    "Mocked endpoint error preserves visitor input"
+  ],
+  "limitations": [
+    "No live enquiry destination provided; default is a local preview and download",
+    "No actual venue photos, exact address, fees or trainer credentials provided",
+    "Only Chromium was used for automated browser checks; no live deployment performed"
+  ]
+}

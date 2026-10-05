@@ -1,0 +1,65 @@
+{
+  "note": "Stock training photography; images are not evidence of the actual Howrah venue, members or trainer. Nine photographs retained from the provided v14 source, two added through Unsplash search. No AI-generated images were added.",
+  "license": "https://unsplash.com/license",
+  "images": [
+    {
+      "file": "training-01.webp",
+      "url": "https://images.unsplash.com/photo-1723117418183-2422c62a5a75?auto=format&fit=crop&w=2200&q=88",
+      "alt": "Real group training session in a gym"
+    },
+    {
+      "file": "training-02.webp",
+      "url": "https://images.unsplash.com/photo-1722925541142-5db2668ca492?auto=format&fit=crop&w=1800&q=88",
+      "alt": "Real woman performing barbell strength training"
+    },
+    {
+      "file": "training-03.webp",
+      "url": "https://images.unsplash.com/photo-1674834727149-00812f907676?auto=format&fit=crop&w=1800&q=88",
+      "alt": "Real gym training environment"
+    },
+    {
+      "file": "training-04.webp",
+      "url": "https://images.unsplash.com/photo-1674834727206-4bc272bfd8da?auto=format&fit=crop&w=1800&q=88",
+      "alt": "Real strength and conditioning gym space"
+    },
+    {
+      "file": "training-05.webp",
+      "url": "https://images.unsplash.com/photo-1614091245074-bbf4d04a3c32?auto=format&fit=crop&w=1800&q=88",
+      "alt": "Real group fitness training session"
+    },
+    {
+      "file": "training-06.webp",
+      "url": "https://images.unsplash.com/photo-1778828494365-c798ff9cce2c?auto=format&fit=crop&w=2000&q=88",
+      "alt": "Real modern gym interior"
+    },
+    {
+      "file": "training-07.webp",
+      "url": "https://images.unsplash.com/photo-1616279968481-f8717a710ef6?auto=format&fit=crop&w=1600&q=88",
+      "alt": "Real woman strength training in a gym"
+    },
+    {
+      "file": "training-08.webp",
+      "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1600&q=88",
+      "alt": "Real gym photography"
+    },
+    {
+      "file": "training-09.webp",
+      "url": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&w=2000&q=88",
+      "alt": "Real personal trainer coaching a client"
+    },
+    {
+      "file": "training-10.webp",
+      "url": "https://images.unsplash.com/photo-1639496908153-e89e77ea95f2",
+      "source_page": "https://unsplash.com/photos/OvKO2dWabg8",
+      "photographer": "T2 Graphy",
+      "alt": "An athlete training with a barbell in an Indian gym"
+    },
+    {
+      "file": "training-11.webp",
+      "url": "https://images.unsplash.com/photo-1639496906431-f732f9478600",
+      "source_page": "https://unsplash.com/photos/xr8dWcMjFdI",
+      "photographer": "Dollar Gill",
+      "alt": "An athlete practising a cable exercise in a gym"
+    }
+  ]
+}
